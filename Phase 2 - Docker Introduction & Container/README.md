@@ -113,6 +113,11 @@ Docker Image
 └───────────────┘
 ```
 
+<img width="943" height="527" alt="Screenshot 2026-09-15 220332" src="https://github.com/user-attachments/assets/d6acf354-f230-4147-8c93-968dc977c63c" />
+
+
+
+
 One image can be used to create multiple containers.
 
 ---
