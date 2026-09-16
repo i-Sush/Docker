@@ -113,10 +113,6 @@ Docker Image
 └───────────────┘
 ```
 
-<img width="943" height="527" alt="Screenshot 2026-09-15 220332" src="https://github.com/user-attachments/assets/d6acf354-f230-4147-8c93-968dc977c63c" />
-
-
-
 
 One image can be used to create multiple containers.
 
@@ -235,6 +231,16 @@ Container 2 → App v2
 
 ---
 
+- Visual Representation :
+  
+<img width="937" height="524" alt="Screenshot 2026-09-15 215814" src="https://github.com/user-attachments/assets/fdbb50b8-4321-47d6-b6a4-900df48bf447" />
+
+
+<img width="943" height="527" alt="Screenshot 2026-09-15 220332" src="https://github.com/user-attachments/assets/d6acf354-f230-4147-8c93-968dc977c63c" />
+
+
+
+
 # 5. Where Do Docker Images Live?
 
 Docker images can be stored in **container registries**.
@@ -313,6 +319,11 @@ Application
 ```
 
 The application environment is packaged into the image, making deployment more consistent.
+
+
+
+
+
 
 > **Note:** The server still needs a container runtime such as Docker Engine or another compatible runtime. Docker does not eliminate the need for an operating system or server infrastructure.
 
