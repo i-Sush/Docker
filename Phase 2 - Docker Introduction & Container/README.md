@@ -320,6 +320,11 @@ Application
 
 The application environment is packaged into the image, making deployment more consistent.
 
+- Visual Representation :
+  
+  <img width="941" height="528" alt="Screenshot 2026-09-16 211430" src="https://github.com/user-attachments/assets/703c865a-1f44-4316-a72f-c790994fc619" />
+
+  <img width="942" height="527" alt="Screenshot 2026-09-16 211414" src="https://github.com/user-attachments/assets/d1c74c6a-90fa-4df2-b90b-e2a98779a507" />
 
 
 
